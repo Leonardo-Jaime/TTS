@@ -6,8 +6,6 @@ Hello World, I'm Iron man
 
 8) HOLA 8)
 
-<<<<<<< HEAD
-¡Buen dia a todos!, Feliz año nuevo!
-=======
 Ahora que sigue?
->>>>>>> 3d348c020ec89598ddbe8dfbe8109e4ca175fe4a
+
+feliz año!
