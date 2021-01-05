@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 hola soy marco, mucho gusto
+=======
+Hoa mundo
+>>>>>>> a3286a991453cedc3f201621d69a052bdd567740
