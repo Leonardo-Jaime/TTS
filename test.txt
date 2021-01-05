@@ -22,4 +22,8 @@ except empty space and you... and you are but a thought...
 
 experimento merge
 
+<<<<<<< HEAD
 monito estuvo aqui
+=======
+Prueba merge 2 
+>>>>>>> e01d0477adc2b5a1075c2cc6e008e99b95367e60
