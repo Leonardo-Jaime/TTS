@@ -1,5 +1,50 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 hola soy marco, mucho gusto
 =======
 Hoa mundo
 >>>>>>> a3286a991453cedc3f201621d69a052bdd567740
+=======
+Hola mundo (Daniel)
+
+Soy Leo
+
+Hello World, I'm Iron man
+
+8) HOLA 8)
+
+Ahora que sigue?
+
+feliz año!
+
+
+cuidar las actualizaciones de commits
+
+y de las chinches que hay alrededor
+
+prueba
+
+Life itself is only a vision. Nothing exists,
+except empty space and you... and you are but a thought...
+
+experimento merge
+
+<<<<<<< HEAD
+monito estuvo aqui
+=======
+Prueba merge 2 
+>>>>>>> e01d0477adc2b5a1075c2cc6e008e99b95367e60
+
+
+prueba editando en GitHub
+
+
+Daniel Edito en GitHUb
+
+LEO J
+>>>>>>> 77af916fd927808b2db0d7fcb5ecac6059f54290
+
+
+FIN
+
+
