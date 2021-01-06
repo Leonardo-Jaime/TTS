@@ -41,10 +41,4 @@ prueba editando en GitHub
 
 Daniel Edito en GitHUb
 
-LEO J
->>>>>>> 77af916fd927808b2db0d7fcb5ecac6059f54290
-
-
-FIN
-
-
+LEO J (:
