@@ -42,3 +42,7 @@ prueba editando en GitHub
 Daniel Edito en GitHUb
 
 LEO J (:HOLA
+
+prueba de commit amend este es el que contiene la correción
+
+
